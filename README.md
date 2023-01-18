@@ -1,5 +1,5 @@
 ### 
-<img src="https://img.shields.io/badge/#4479A1?style=for-the-badge&logo=Mysql&logoColor=black">
+<img src="https://img.shields.io/badge/#4479A1?style=for-the-badge&logo=Mysql.svg&logoColor=black">
 <!--
 **CordHouse/CordHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
