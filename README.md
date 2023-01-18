@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=100&height=300&section=header&text=Welcome%20to%20CordHouse&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=300&section=header&text=Welcome%20to%20CordHouse&fontSize=40&fontColor=FFFFFF)
 
 <div align=center><h1>📝 Tech Stack</h1>
 <img src="https://img.shields.io/badge/JAVA-007396?style=Plastic&logo=JAVA&logoColor=white">
@@ -24,5 +24,5 @@
 <div align=center><h1>😄 My Stats</h1></div>
 
 ![CordHouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=CordHouse&theme=cobalt&show_icons=true)
-[![CordHouse's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CordHouse&layout=compact&theme=cobalt&hide_border=true)](https://github.com/CordHouse)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CordHouse&layout=compact&theme=cobalt&hide_border=true)](https://github.com/CordHouse)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkqktl5310)](https://solved.ac/qkqktl5310/)
