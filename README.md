@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&%20render&fontSize=90)
-<img src="" width="auto" height="300">
-
-<!-- ![우주](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlMSmqS0ee9KbVUpjhUfiQQh1x9dSzNEqGA&usqp=CAU){: width="100%" height="300px"} -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=100&height=300&section=header&text=Welcome%20to%20CordHouse&fontSize=40&fontColor=FFFFFF)
 
 <div align=center><h1>📝 Tech Stack</h1>
 <img src="https://img.shields.io/badge/JAVA-007396?style=Plastic&logo=JAVA&logoColor=white">
