@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=300&section=header&text=Welcome%20to%20CordHouse&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=300&section=header&animation=twinkling&text=Welcome%20to%20CordHouse&fontSize=40&fontColor=FFFFFF)
 
 <div align=center><h1>📝 Tech Stack</h1>
 <img src="https://img.shields.io/badge/JAVA-007396?style=Plastic&logo=JAVA&logoColor=white">
